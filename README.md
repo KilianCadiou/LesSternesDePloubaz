@@ -2,6 +2,9 @@
 
 # Les Sternes De Ploubaz
 
-Création et Gestion du site internet du club de Badminton des Sternes de Ploubaz'.
+Création d'un site internet pour mon club de badminton : Les Sternes de Ploubaz'.
+
+- Création à partir de zéro via Wix.
+- Gestion et amélioration continue du site.
 
 Accéder au site : [ICI](https://www.les-sternes-de-ploubaz.com/)
